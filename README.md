@@ -1,4 +1,4 @@
-I am an MSc student in Computer Science at the University of Calgary, advised by Dr. Fateme Rajabiyazdi.
+I am an MSc student in Computer Science at the University of Calgary.
 
 I study how people understand, question and decide when to rely on what AI systems tell them.
 My work combines human–computer interaction and visualization.
